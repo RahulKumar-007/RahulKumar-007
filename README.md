@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar-007&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar-007" /> </p>
 
-- 🔭 I’m currently working on **AI News Application**
+- 🔭 I’m currently working on **Neuro symbolic reasoner**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Product Analytics**
 
 - 📫 How to reach me **chhonkarrahul1362@gmail.com**
 
-- ⚡ Fun fact **I have very dark humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
