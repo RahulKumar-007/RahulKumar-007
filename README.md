@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar-007&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar-007" /> </p>
 
-- 🔭 I’m currently working on **Neuro symbolic reasoner**
+- 🔭 I’m currently working on ** Version Control System**
 
-- 🌱 I’m currently learning **Product Analytics**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **chhonkarrahul1362@gmail.com**
 
